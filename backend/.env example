@@ -1,0 +1,6 @@
+DATABASE_URL=postgresql+psycopg2://postgres:PASSWORD@localhost:5432/slt_catalog
+WHATSAPP_BUSINESS_PHONE=94_________
+ADMIN_API_TOKEN=replace-with-a-long-random-admin-token
+META_CATALOG_ID=your-meta-catalog-id
+META_ACCESS_TOKEN=your-meta-system-user-access-token
+META_GRAPH_API_VERSION=v23.0
