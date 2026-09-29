@@ -1,8 +1,6 @@
 # SLT Item Catalog → WhatsApp Business
 
-A small system: customers browse item cards (data packages, SIM plans,
-devices) on a React site, and tapping a card opens that exact product
-inside your WhatsApp Business catalog.
+A small system: customers browse item cards (data packages, SIM plans, devices) on a React site, and tapping a card opens that exact product inside your WhatsApp Business catalog.
 
 ## How the WhatsApp link works
 
